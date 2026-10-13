@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "a2263bb3227f1eeab140d12f",
+  "owner": "cevqvv",
+  "repo": "page-66b430c5f1926d4d98c47304",
+  "title": "小火箭分享",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "66b430c5f1926d4d98c47304",
+      "a": "小火箭分享",
+      "b": "",
+      "entity": "小火箭分享",
+      "brand": "小火箭分享",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f9b409d8a28d269ecf4770c9c1ff86cd34e8394922f5bd51059e83a360fe209b",
+      "content": {
+        "keyword1": "小火箭分享",
+        "keyword2": "",
+        "primary_entity": "小火箭分享",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭分享提供优质VPN加速器，每月GB流量支持多设备在线，解锁流媒体，官网提供客户端下载。稳定可靠的高速网络解决方案。",
+          "AI_DESCRIPTION": "小火箭分享提供优质VPN加速器，每月GB流量支持多设备在线，解锁流媒体，官网提供客户端下载。稳定可靠的高速网络解决方案。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --purple: #7c3aed;\n            --light-gray: #f1f5f9;\n        }\n        * { margin:0; padding:0; box-sizing:border-box; }\n        body {\n            font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n            background-color: var(--light-gray);\n            color: #334155;\n            line-height: 1.6;\n            font-size: 16px;\n        }\n        header {\n            background: linear-gradient(135deg, #7c3aed, #a855f7);\n            color: white;\n            padding: 1rem;\n        }\n        nav a {\n            color: white;\n            text-decoration: none;\n            margin: 0 1rem;\n        }\n        h1 {\n            text-align: center;\n            font-size: 2.2rem;\n            margin: 1rem 0;\n            color: white;\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 2rem 1rem;\n        }\n        section h2 {\n            color: var(--purple);\n            font-size: 1.8rem;\n            margin: 2rem 0 1rem;\n        }\n        .plans {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 1.5rem;\n        }\n        .plan-card {\n            background: white;\n            border-radius: 12px;\n            padding: 1.5rem;\n            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);\n            transition: transform 0.2s ease;\n        }\n        .plan-card:hover {\n            transform: translateY(-8px);\n        }\n        .featured {\n            border: 3px solid var(--purple);\n            position: relative;\n        }\n        .featured::before {\n            content: \"旗舰推荐\";\n            position: absolute;\n            top: -12px;\n            right: 20px;\n            background: var(--purple);\n            color: white;\n            padding: 4px 12px;\n            border-radius: 20px;\n            font-size: 0.85rem;\n            font-weight: bold;\n        }\n        .price {\n            font-size: 1.4rem;\n            color: var(--purple);\n            font-weight: bold;\n            margin: 0.5rem 0;\n        }\n        .price span {\n            font-size: 0.9rem;\n            color: #64748b;\n        }\n        ul {\n            list-style: none;\n            padding: 0;\n        }\n        li {\n            padding: 0.5rem 0;\n            padding-left: 1.2rem;\n            position: relative;\n        }\n        li::before {\n            content: \"✓\";\n            color: var(--purple);\n            position: absolute;\n            left: 0;\n        }\n        details {\n            background: white;\n            border: 1px solid #e2e8f0;\n            border-radius: 8px;\n            margin-bottom: 1rem;\n            overflow: hidden;\n        }\n        summary {\n            padding: 1rem;\n            font-weight: 600;\n            cursor: pointer;\n            list-style: none;\n        }\n        summary::-webkit-details-marker { display: none; }\n        .download {\n            background: white;\n            border-radius: 12px;\n            padding: 2rem;\n            text-align: center;\n            margin: 2rem 0;\n        }\n        .download a {\n            display: inline-block;\n            background: var(--purple);\n            color: white;\n            padding: 0.8rem 2rem;\n            border-radius: 8px;\n            font-size: 1.1rem;\n            text-decoration: none;\n            margin-top: 1rem;\n        }\n        footer {\n            background: #1e2937;\n            color: #cbd5e1;\n            padding: 2rem;\n            text-align: center;\n        }\n        footer p {\n            margin: 0.75rem 0;\n        }\n        @media (max-width: 640px) {\n            h1 { font-size: 1.8rem; }\n            main { padding: 1.5rem 1rem; }\n            .plans { grid-template-columns: 1fr; }\n        }\n    </style>\n\n\n    <header>\n        <nav>\n            <div>\n                <a href=\"#\">小火箭分享</a>\n            </div>\n            <div>\n                <a href=\"#plans\">套餐计划</a>\n                <a href=\"#faq\">常见问题</a>\n                <a href=\"#download\">客户端下载</a>\n            </div>\n        </nav>\n        <h1>小火箭分享</h1>\n    </header>\n    <main>\n        <section>\n            <h2>产品介绍</h2>\n            <p>小火箭分享机场是专业的VPN加速器，提供稳定高效的网络加速解决方案，帮助用户突破地域限制，畅享高速上网体验。我们致力于为用户提供安全、隐私保护、性能优异的加速服务，无论日常浏览、游戏娱乐还是办公需求，都能获得流畅连接。</p>\n        </section>\n        <section id=\"plans\">\n            <h2>套餐计划</h2>\n            <div class=\"plans\">\n                <div class=\"plan-card\">\n                    <h3>基础版</h3>\n                    <p class=\"price\">¥15/月 <span>（按年付仅需 ¥150/年）</span></p>\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <div class=\"plan-card featured\">\n                    <h3>旗舰版</h3>\n                    <p class=\"price\">¥35/月 <span>（按年付仅需 ¥350/年）</span></p>\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                <div class=\"plan-card\">\n                    <h3>团队版</h3>\n                    <p class=\"price\">¥85/月 <span>（按年付仅需 ¥850/年）</span></p>\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n        <section>\n            <h2>使用指南</h2>\n            <p>使用小火箭分享非常简单快速：</p>\n            <ol>\n                <li>访问官网下载客户端</li>\n                <li>注册账号并选择适合的套餐进行订阅</li>\n                <li>登录后选择节点进行连接</li>\n                <li>享受稳定高速的加速服务</li>\n            </ol>\n        </section>\n        <div id=\"download\" class=\"download\">\n            <h2>客户端下载</h2>\n            <p>立即下载小火箭分享官方客户端，开启您的VPN加速之旅。</p>\n            <a href=\"#\">立即下载</a>\n        </div>\n        <section id=\"faq\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>什么是小火箭分享机场？</summary>\n                <p>小火箭分享机场是专业的VPN加速服务提供商，专注于为用户提供稳定、安全、高速的网络加速解决方案，帮助您轻松突破地域限制，获得流畅的浏览和下载体验。</p>\n            </details>\n            <details>\n                <summary>如何订阅套餐？</summary>\n                <p>您可以访问官网注册账号，选择基础版、旗舰版或团队版进行在线支付订阅，即可立即使用所有功能。</p>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <p>基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台设备。您可以根据需求选择合适的套餐。</p>\n            </details>\n            <details>\n                <summary>流量超出后怎么办？</summary>\n                <p>超出流量后，系统会自动限速，但您可以选择续费更高套餐或升级套餐以获得更多流量。</p>\n            </details>\n            <details>\n                <summary>如何下载客户端？</summary>\n                <p>请访问官网下载页面，按照提示下载适用于您操作系统的客户端软件，安装后即可使用。</p>\n            </details>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <p>小火箭分享 - 稳定VPN加速器</p>\n        <p>友情链接</p>\n        <p>• 官方资源</p>\n        <p>• 加速节点</p>\n        <p>广告</p>\n        <p>© 2024 小火箭分享 所有权利保留</p>\n    </footer>\n\n",
+          "hash": "abe178a4b2f36c76d97d5c23a73a23acbb977c632eb997cae5e0a8615582b2ed",
+          "seo": {
+            "title": "小火箭分享 - 优质VPN加速器 | 客户端下载 官网",
+            "keywords": "小火箭分享, VPN加速器, 机场订阅, 客户端下载, 网络加速, VPN服务",
+            "description": "小火箭分享提供优质VPN加速器，每月GB流量支持多设备在线，解锁流媒体，官网提供客户端下载。稳定可靠的高速网络解决方案。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "oslddwm.cn",
+    "host": "p-a76c3ae98f.oslddwm.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "9814267d235e79638e9d8bb9847a6fd98030f4b2c773eaed7f680e414ac93ac6",
+    "sitemap.xml": "5cf0a4eeac20dc9b2d430d1c707e7ba85d5cbd820367ba2e235e00ab899d4839",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0c7596efdb8a738b493156ebd7cf6d170ddaee3b4da22338ae843d8d1bb689d4",
+    "robots.txt": "904adbf610e5b12b79fe335b3a94f4316a8d24fdd6e43d7df5d778a071d50b92",
+    "8bc355413fc16fc153169d65fbae8acc.txt": "e1f7912633b55ab013d682ec7de17874ce102932de05fe7d5e8b1f929a4b903a"
+  },
+  "revision": "79525fc9ea890e7d9b8bb0ed346e4ef0a20bdcb2cfe784ae623eebe7a6b57f30"
+}
